@@ -1,6 +1,6 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/presentation/currency_page.dart';
+import 'package:flutter_application_1/presentation/currency/currency_page.dart';
 import 'package:flutter_application_1/presentation/detail/detail_page.dart';
 import 'package:flutter_application_1/presentation/home/home_page.dart';
 

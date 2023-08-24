@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/application/bloc/list_bloc.dart';
+import 'package:flutter_application_1/application/list/list_bloc.dart';
 import 'package:flutter_application_1/application/nominal/nominal_bloc.dart';
 import 'package:flutter_application_1/injection.dart';
 import 'package:flutter_application_1/presentation/routers.dart';

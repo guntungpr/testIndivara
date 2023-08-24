@@ -10,7 +10,7 @@
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
 import 'package:dio/dio.dart' as _i4;
-import 'package:flutter_application_1/application/bloc/list_bloc.dart' as _i9;
+import 'package:flutter_application_1/application/list/list_bloc.dart' as _i9;
 import 'package:flutter_application_1/application/nominal/nominal_bloc.dart'
     as _i3;
 import 'package:flutter_application_1/domain/core/i_network_service.dart'
